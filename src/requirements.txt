@@ -1,21 +1,5 @@
 
 asgiref==3.7.2
-autobahn==23.6.2
-backend==0.2.4.1
-channels==4.0.0
-channels-redis==4.2.0
 
-daphne==4.0.0
-
-dj-database-url==1.0.0
-Django==4.0
-django-background-task==0.1.8
-django-channels==0.7.0
-django-ckeditor==6.5.1
-django-crispy-forms==2.1
-django-extensions==3.2.1
-django-gunicorn==0.1.1
-
-django-renderpdf==4.0.0
 
 Pillow==9.4.0
