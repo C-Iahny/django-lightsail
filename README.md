@@ -1,2 +1,2 @@
-# django-lightsail
-For deploying the app on aws
+# django-experiences
+For app
